@@ -18,9 +18,10 @@ The login system utilizes face recognition technology for registration and login
 - Flexibility to integrate additional features like facial expression analysis or liveness detection for enhanced security.
 
 # Screenshots
-
+## Registration 
 ![1](https://github.com/Amiruzzaman-anan/Face-Recognition-Login/assets/68743925/e11d6501-f5a6-4755-abd1-15ef1c5fac2a)
 
 ![2](https://github.com/Amiruzzaman-anan/Face-Recognition-Login/assets/68743925/9e08ba57-31fe-40ba-aeee-1fd1a7f0a70a)
 
+## Log In
 ![3](https://github.com/Amiruzzaman-anan/Face-Recognition-Login/assets/68743925/8a6f9041-1b48-418e-9291-6ba1b35c89ba)
